@@ -20,20 +20,20 @@
         Add the android:background="@color/colorAlphaWhite" in layout ( RelativeLayout ) to help the adjusts
     -->
 
-    <!-- Board -->
-    <dimen name="boardWidth" tools:ignore="PxUsage">1620px</dimen>
-    <dimen name="boardHeight" tools:ignore="PxUsage">897px</dimen>
-    <dimen name="boardMarginBottom" tools:ignore="PxUsage">0.0099px</dimen>
+   <!-- Board -->
+    <dimen name="boardWidth" tools:ignore="PxUsage">2700px</dimen>
+    <dimen name="boardHeight" tools:ignore="PxUsage">1774px</dimen>
+    <dimen name="boardMarginBottom" tools:ignore="PxUsage">0.02px</dimen>
 
     <!-- Canvas -->
-    <dimen name="canvasWidth" tools:ignore="PxUsage">1458px</dimen>
-    <dimen name="canvasHeight" tools:ignore="PxUsage">731px</dimen>
-    <dimen name="canvasMarginTop" tools:ignore="PxUsage">82px</dimen>
+    <dimen name="canvasWidth" tools:ignore="PxUsage">2430px</dimen>
+    <dimen name="canvasHeight" tools:ignore="PxUsage">1446px</dimen>
+    <dimen name="canvasMarginTop" tools:ignore="PxUsage">162px</dimen>
 
     <!-- Buttons -->
-    <dimen name="buttonWidth" tools:ignore="PxUsage">280px</dimen>
-    <dimen name="buttonHeight" tools:ignore="PxUsage">75px</dimen>
-    <dimen name="buttonNormalMarginStart" tools:ignore="PxUsage">175px</dimen>
-    <dimen name="buttonCloseMarginEnd" tools:ignore="PxUsage">170px</dimen>
-    <dimen name="buttonTrickshotSecondLineMarginEnd" tools:ignore="PxUsage">170px</dimen>
+    <dimen name="buttonWidth" tools:ignore="PxUsage">467px</dimen>
+    <dimen name="buttonHeight" tools:ignore="PxUsage">148px</dimen>
+    <dimen name="buttonNormalMarginStart" tools:ignore="PxUsage">292px</dimen>
+    <dimen name="buttonCloseMarginEnd" tools:ignore="PxUsage">283px</dimen>
+    <dimen name="buttonTrickshotSecondLineMarginEnd" tools:ignore="PxUsage">283px</dimen>
 </resources>
