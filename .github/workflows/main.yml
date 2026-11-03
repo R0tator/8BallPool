@@ -22,7 +22,7 @@ jobs:
       - name: Setup Specific Gradle Version
         uses: gradle/actions/setup-gradle@v4
         with:
-          gradle-version: '8.4'
+          gradle-version: '8.13'
 
       - name: Build Debug APK
         run: gradle assembleDebug --no-daemon --stacktrace
